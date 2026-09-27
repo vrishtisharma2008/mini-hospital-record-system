@@ -50,4 +50,11 @@ Mini-Hospital-Record-System/
 - Choose option 6 to see every patient listed together.
 
 ## Screenshots
-Add screenshots of the program running here once you have tested it (e.g. successful_output.png, search_patient.png, patient_details.png).
+![Project Structure](project_structure.png)
+![Successful Output](successful_output.png)
+![Search Patient](seacrh_patients.png) 
+![Display Patient](patient_details.png)
+![Assigning doctor & department](assign_doctor.png)
+![Update consultation status](consultation_status.png)
+![Display all patients](display_all_patients.png)
+![Exiting system](exiting_system.png) 
