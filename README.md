@@ -52,10 +52,10 @@ Mini-Hospital-Record-System/
 ## Screenshots
 ![Project Structure](project_structure.png)
 ![Successful Output](successful_output.png)
-![Search Patient](seacrh_patients.png) 
+![Search Patient](search_patients.png) 
 ![Display Patient](patient_details.png)
 ![Assigning doctor & department](assign_doctor.png)
 ![Update consultation status](consultation_status.png)
 ![Display all patients](display_all_patients.png)
 ![Exiting system](exiting_system.png) 
-![Validation test](validation_png) 
+![Validation test](validation_test.png) 
