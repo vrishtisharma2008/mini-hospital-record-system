@@ -58,3 +58,4 @@ Mini-Hospital-Record-System/
 ![Update consultation status](consultation_status.png)
 ![Display all patients](display_all_patients.png)
 ![Exiting system](exiting_system.png) 
+![Validation test](validation_png) 
